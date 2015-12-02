@@ -36,3 +36,5 @@ learn
 #to run in the browser
 learn -b
 ```
+
+<a href='https://learn.co/lessons/series.js' data-visibility='hidden'>View this lesson on Learn.co</a>
